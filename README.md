@@ -1,0 +1,2 @@
+# iOSRightScrollergesture
+panGestureRecognizer ios7右滑手势 interactivePopGestureRecognizer
